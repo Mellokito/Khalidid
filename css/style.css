@@ -92,7 +92,7 @@
     box-sizing: border-box;
 }
 body {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Poppins', 'boutros', sans-serif;
     font-size: 16px;
     line-height: 26px;
     color: #818181;
@@ -123,12 +123,12 @@ a:hover {
  =============================*/
 /*=== ostion-btn ===*/
 .theme-btn {
-    font-size: 12px;
+    font-size: 16px;
     text-transform: uppercase;
     background: #f1ae44;
     color: #fff;
     font-weight: 600;
-    letter-spacing: 1px;
+    /* letter-spacing: 1px; */
     padding: 0 30px 0 35px;
     line-height: 49px;
     position: relative;
@@ -141,6 +141,7 @@ a:hover {
     transition: 0.3s ease-in;
     text-decoration: none;
     border: none;
+    font-family: 'boutros';
 }
 .theme-btn:after {
     content: "";
@@ -955,6 +956,7 @@ a:hover {
     border-bottom: 1px solid #fff;
     display: inline-block;
     margin-bottom: 12px;
+    font-family: 'boutros';
 }
 .slider-area .slider-heading .slider__title {
     font-size: 100px;
@@ -962,6 +964,7 @@ a:hover {
     color: #fff;
     font-weight: 900;
     margin-bottom: 47px;
+    font-family: 'boutros';
 }
 /*=== owl-nav ===*/
 .slider-area .homepage-slide1 .owl-dots {
