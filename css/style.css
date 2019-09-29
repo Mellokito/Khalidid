@@ -965,6 +965,7 @@ a:hover {
     font-weight: 900;
     margin-bottom: 47px;
     font-family: 'boutros';
+    text-shadow: 2px 2px 10px black;
 }
 /*=== owl-nav ===*/
 .slider-area .homepage-slide1 .owl-dots {
