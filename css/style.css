@@ -173,6 +173,7 @@ a:hover {
 }
 /*=== section-heading ====*/
 .section-heading .section__title {
+    font-family: 'Poppins', 'boutros', sans-serif;
     font-size: 50px;
     line-height: 60px;
     font-weight: 700;
@@ -1178,12 +1179,14 @@ a:hover {
     font-size: 36px;
     line-height: 45px;
     font-weight: 400;
+    font-family: 'Poppins', 'boutros', sans-serif;
 }
 .make-world-area .world-static-wrap2 .world-content .world__title strong {
     color: #e36955;
 }
 .make-world-area .world-static-wrap2 .world-content .world__desc {
     line-height: 30px;
+    font-size:20px
 }
 /*===================================
     DONATE AREA
@@ -2065,8 +2068,8 @@ a:hover {
     CAUSES AREA
 =====================================*/
 .causes-area {
-    padding-top: 120px;
-    padding-bottom: 90px;
+    /* padding-top: 120px;
+    padding-bottom: 90px; */
 }
 .causes-area .blog-content-wrap {
     margin-top: 51px;
@@ -3293,6 +3296,7 @@ a:hover {
     -ms-transition: 0.3s ease;
     -o-transition: 0.3s ease;
     transition: 0.3s ease;
+    font-family: 'Poppins', 'boutros', sans-serif;
 }
 .cat-area .helping-item .helping-cat-item h4 a:hover {
     color: #f1ae44;
@@ -3510,6 +3514,7 @@ a:hover {
 }
 .package-area .package-content .package__desc {
     line-height: 30px;
+    text-align: right;
 }
 
 /*=== package-item ===*/
