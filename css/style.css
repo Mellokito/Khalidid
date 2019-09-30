@@ -2132,6 +2132,7 @@ a:hover {
     -ms-transition: 0.3s ease-in;
     -o-transition: 0.3s ease-in;
     transition: 0.3s ease-in;
+    font-family: 'boutros';
 }
 .causes-area .blog-content-wrap .blog-content .blog-item .blog-inner-content .blog__title a:hover {
     color: #f1ae44;
