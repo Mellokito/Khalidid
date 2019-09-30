@@ -174,7 +174,7 @@ a:hover {
 /*=== section-heading ====*/
 .section-heading .section__title {
     font-family: 'Poppins', 'boutros', sans-serif;
-    font-size: 50px;
+    font-size: 47px;
     line-height: 60px;
     font-weight: 700;
 }
@@ -1257,7 +1257,7 @@ a:hover {
     BREADCRUMB AREA
 =====================================*/
 .breadcrumb-area {
-    background-color: #f2f0ec;
+    background-color: #ffffff;
     position: relative;
     z-index: 1;
     color: #424242;
@@ -2019,7 +2019,7 @@ a:hover {
     position: absolute;
     content: '';
     top: 50%;
-    right: 39px;
+    right: 90%;
     width: 2px;
     height: 10px;
     background-color: #232323;
