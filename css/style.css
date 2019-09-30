@@ -432,7 +432,7 @@ a:hover {
     position: absolute;
     /* left: 0; */
     top: 120%;
-    min-width: 230px;
+    min-width: 250px;
     background-color: #fff;
     -webkit-border-radius: 0 0 2px 2px;
     -moz-border-radius: 0 0 2px 2px;
@@ -473,7 +473,7 @@ a:hover {
 .header-area .header-top .ostion-top-wrap .ostion-menu .ostion-menu-content .navigation-top .main-navigation ul li a {
     color: #818181;
     text-transform: capitalize;
-    font-size: 16px;
+    font-size: 18px;
     font-weight: 500;
     display: block;
     margin: 0 22px;
