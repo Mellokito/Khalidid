@@ -2274,7 +2274,7 @@ a:hover {
    CAUSES DETAIL AREA
  =============================*/
 .causes-detail-area {
-    padding-top: 120px;
+    padding-top: 15%;
     padding-bottom: 120px;
 }
 .causes-detail-area .blog-content-wrap .blog-content .blog-item .blog-img img {
@@ -2481,6 +2481,7 @@ a:hover {
     background-color: #863bae;
     color: #fff;
     padding: 40px 40px;
+    text-align: right
 }
 .sidebar-shared .sidebar-form .form-shared form input[type="text"]:-ms-input-placeholder {
     color: #fff;
@@ -2495,9 +2496,11 @@ a:hover {
     font-size: 18px;
 }
 .sidebar-shared .side-widget .widget__title {
-    font-size: 20px;
+    font-size: 35px;
     font-weight: 800;
     margin-bottom: 25px;
+    border-bottom: 1px solid;
+    padding-bottom: 10px;
 }
 .sidebar-shared .side-widget .author-box {
     display: -webkit-flex;
@@ -3098,16 +3101,16 @@ a:hover {
     width: 100%;
     height: 100%;
     top: 0;
-    left: 0;
+    left: -1px;
     z-index: -1;
     background-color: #50bac3;
     -webkit-transform-origin: bottom left;
     transform-origin: bottom left;
-    -webkit-transform: skew(-12deg,0deg);
-    -moz-transform: skew(-12deg,0deg);
-    -ms-transform: skew(-12deg,0deg);
-    -o-transform: skew(-12deg,0deg);
-    transform: skew(-12deg,0deg);
+    -webkit-transform: skew(12deg,0deg);
+    -moz-transform: skew(12deg,0deg);
+    -ms-transform: skew(12deg,0deg);
+    -o-transform: skew(12deg,0deg);
+    transform: skew(12deg,0deg);
 }
 .news-detail-area .blog-content-wrap .blog-content .blog-item .blog-inner-content-2 .news-tag-item-right .news-share li:nth-child(2) a,
 .news-detail-area .blog-content-wrap .blog-content .blog-item .blog-inner-content-2 .news-tag-item-right .news-share li:nth-child(2) a:after {
